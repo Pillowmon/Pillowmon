@@ -1,9 +1,37 @@
 <head><h1>ABOUT ME</h1></head>
-<h4>*currently in the progress of building up my portfolio... So stay tune for updates! </h4>
+<h4>*currently in the progress of building up my portfolio and improving this page... So stay tune for updates! </h4>
 
 
 <head><h2>Biography</h2></head>
-<body>My name is <b>Lim Ying Xuan</b>. I am currently a undergraduate student at <b>SUTD(Singapore University of Technology and Design)</b> set to <b>graduate in 2026</b> with a Bachelor of Science in Design and Artifical Intellegence.  </body>
+<body><p>My name is <b>Lim Ying Xuan</b>. I am currently a undergraduate student at <b>SUTD(Singapore University of Technology and Design)</b> set to <b>graduate in 2026</b> with a Bachelor of Science in Design and Artifical Intellegence. Being a child born in 2002, I got the opportunity to witness the bloom of technology and how they changed and shaped the world around us. (Never fails to amaze me how i grew up without all these technologies now that they seem to be an inseperable part of our lives) </p></body>
+<p>Some other fun facts about me:</p>
+<ul><li>During my first year in university, I made a bold move to join BANDS as a keyboardist without any prior experence with music, let alone the keyboard. With supports from my bandmates and friends, I eventually got to perform in <b>2</b> performances! :D </li>
+<li>I have also picked up crochet as a hobby and have made spectacular pieces!! </li>
+<li>Apart from school, I engaged in side hustles which allowed me to interact with wide ranges of people from young children to retired adults. </li></ul>
+
+<h2>My skillsets</h2>
+<p>As an undergraduate, the skills I am able to offer is always increasing as I am constantly absorbing new knowledge and engaging in new projects.</p>
+<table>
+<h3>Accquired skills</h3>
+<ul>
+<li>Basic python programming skills</li>
+<li>Simple 3D cading with solidworks</li>
+<li>Simple 3D cading with Autodesk Fusion</li>
+<li>Design thinking abilities</li>
+<li>prompt engineering</li>
+</ul>
+
+<h3>Skills I am working on</h3>
+<ul>
+<li>HTML & CSS</li>
+<li>Ruby</li>
+<li>Java</li>
+<li>Machine learning</li>
+<li>UI/UX engineering</li>
+<li>Front end development</li>
+<li>Back end development</li>
+  
+</ul>
 
 
 
