@@ -33,20 +33,16 @@
   
 </ul>
 
-<head><h2>Previous Projects</h2></head>
+<head><h2>Previous Projects (WIP)</h2></head>
 <h3>Term 2 - Design Thinking and Innovation project</h3>
 <p> for some reason the entire project website is gone and no longer accessible :C (i will be checking with the school for this one) </p>
 
 <h3>Term 4 - Product Design Studio Project</h3>
 <p> In this project my teammates and I worked together with our industrial partner Scoot to develop a solution to prevent late detection of excessive hand carry baggage.</p>
-
-<img scr="hoverfly_poster.png">
-
+<p>The photos are available in the repository, but i'm finding a way to include them here </p>
 
 
-<!---![DAI Showcase Poster (1)]
-![photo_2024-04-23_12-59-05](https://github.com/Pillowmon/Pillowmon/assets/160840085/a9c15587-2b95-4ede-a1eb-88f727d8f825)
 
-Pillowmon/Pillowmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---!Pillowmon/Pillowmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
