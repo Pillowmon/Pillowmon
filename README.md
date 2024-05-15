@@ -40,7 +40,8 @@
 <h3>Term 4 - Product Design Studio Project</h3>
 <p> In this project my teammates and I worked together with our industrial partner Scoot to develop a solution to prevent late detection of excessive hand carry baggage.</p>
 
-<img scr="hoverfly poster.png">
+<img scr="../hoverfly poster.png">
+
 
 
 <!---![DAI Showcase Poster (1)]
